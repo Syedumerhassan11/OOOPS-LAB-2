@@ -1,2 +1,2 @@
-# OOOPS-LAB-3
+# OOOPS-LAB-2
 THIS contains all files regarding lab 2
